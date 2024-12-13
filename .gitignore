@@ -12,3 +12,6 @@ __pycache__/
 
 # 忽略模板同步文件路径
 python-fastapi-templates/
+
+# 忽略lock文件
+package-lock.json
