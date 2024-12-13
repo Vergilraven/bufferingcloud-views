@@ -3,6 +3,8 @@ venv/
 env/
 dashboard-env/
 .npmrc
+.vscode/
+.idea/
 node_modules/
 
 # 忽略Python缓存文件
