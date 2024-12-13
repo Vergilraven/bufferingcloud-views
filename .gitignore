@@ -1,0 +1,12 @@
+# 忽略虚拟环境目录
+venv/
+env/
+dashboard-env/
+.npmrc
+node_modules/
+
+# 忽略Python缓存文件
+__pycache__/
+
+# 忽略模板同步文件路径
+python-fastapi-templates/
